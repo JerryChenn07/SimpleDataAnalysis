@@ -1,0 +1,10 @@
+# ignore folders
+.idea
+.DS_Store
+venv
+
+# ignore files
+*.pyc
+*.log*
+nohup.out
+
